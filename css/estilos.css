@@ -80,7 +80,8 @@ z-index: -1;
 
   .nav_img {
     display: block;
-    width: 30px;
+    margin-left:5px;
+    width: 20px;
   }
  
   .nav_close {
